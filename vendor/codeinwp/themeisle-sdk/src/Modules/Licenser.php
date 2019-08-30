@@ -168,7 +168,7 @@ class Licenser extends Abstract_Module {
 		}
 		$status                = $this->get_license_status();
 		$no_activations_string = apply_filters( $this->product->get_key() . '_lc_no_activations_string', 'No activations left for %s !!!. You need to upgrade your plan in order to use %s on more websites. Please ask the %s Staff for more details.' );
-		$no_valid_string       = '';
+		$no_valid_string       = apply_filters( $this->product->get_key() . '_lc_no_valid_string', 'In order to benefit from updates and support for %s, please add your license code from your  <a href="%s" target="_blank">purchase history</a> and validate it <a href="%s">here</a>. ' );
 
 		// No activations left for this license.
 		if ( 'valid' != $status && $this->check_activation() ) {
@@ -194,6 +194,7 @@ class Licenser extends Abstract_Module {
 			?>
 			<div class="error">
 				<p>
+					<strong><?php echo sprintf( $no_valid_string, $this->product->get_name() . ' ' . $this->product->get_type(), $this->get_api_url(), admin_url( 'options-general.php' ) . '#' . $this->product->get_key() . '_license' ); ?> </strong>
 				</p>
 			</div>
 			<?php
