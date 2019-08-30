@@ -1,0 +1,82 @@
+.wppr-submit-review-wrap {
+	position: relative;
+}
+
+.div-wppr-submit-review {
+	margin: 10px 0px;
+}
+
+.div-wppr-submit-review select,
+.div-wppr-submit-review input[type="text"], 
+.div-wppr-submit-review input[type="number"], 
+.div-wppr-submit-review input[type="url"] {
+	width: 100%;
+}
+
+.div-wppr-product-option {
+	float: left;
+	width: 75%;
+	margin: 5px 0px;
+}
+
+.div-wppr-product-grade {
+	float: right;
+	width: 20%;
+	margin: 5px 0px;
+}
+
+.div-wppr-product-image .wppr-product-image {
+	width: 70%;
+	float: left;
+	margin: 5px 0px;
+}
+
+.div-wppr-product-image .wppr-image-button {
+	float: right;
+	margin: 5px 0px;
+}
+
+.div-wppr-submit-review #wppr-submit-review-bttn {
+	margin: 10px 0px;
+}
+
+.div-wppr-product-affiliate-1,
+.div-wppr-product-affiliate-2 {
+	float: left;
+	width: 30%;
+	margin: 5px 0px;
+	clear: both;
+}
+
+.div-wppr-product-link-1,
+.div-wppr-product-link-2 {
+	float: right;
+	width: 65%;
+	margin: 5px 0px;
+}
+
+.div-wppr-product-section {
+	clear: both;
+}
+
+.wppr-spinner {
+	background: url(../../../../../../../wp-admin/images/wpspin_light-2x.gif) no-repeat;
+	-webkit-background-size: 40px 40px;
+	background-size: 40px 40px;
+	display: inline-block;
+	visibility: hidden;
+	float: left;
+	vertical-align: middle;
+	opacity: 0.7;
+	filter: alpha(opacity=70);
+	width: 40px;
+	height: 40px;
+	margin: 4px 10px 0;
+	position: absolute;
+}
+
+.wppr-spinner.is-active {
+	visibility: visible;
+	bottom: 10%;
+	left: 50%;
+}

@@ -1,0 +1,767 @@
+# Copyright (C) 2018 ThemeIsle
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Product Review 2.2.0\n"
+"Report-Msgid-Bugs-To: "
+"https://github.com/Codeinwp/wp-product-review-pro/issues\n"
+"POT-Creation-Date: 2018-03-20 13:42:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeisle Translate Team <friends@themeisle.com>\n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/addons/class-wppr-pro-amazon.php:28
+#: includes/addons/class-wppr-pro-amazon.php:282
+msgid "Pro Amazon"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:244
+msgid "Buy On Amazon"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:295
+#: includes/addons/class-wppr-pro-amazon.php:296
+msgid ""
+"Click %1$shere%2$s to see how to get this value and %3$svalidate it using "
+"the Amazon Product Advertising API scratchpad%4$s."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:301
+msgid "Access Key ID"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:308
+msgid "Secret Access Key"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:315
+msgid "Associate Tag"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:322
+msgid "Country"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:323
+msgid "Select the country to localize results."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:343
+msgid "Currency"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:344
+msgid "Select the currency to show in the results."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:361
+msgid "Cron"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-amazon.php:362
+msgid "Enable daily update of price."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:28
+#: includes/addons/class-wppr-pro-comparison-table.php:215
+msgid "Pro Comparison Table"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:234
+msgid "Name column title"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:235
+msgid "The text to be displayed on the NAME column."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:237
+msgid "NAME"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:241
+msgid "Rating column title"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:242
+msgid "The text to be displayed on the RATING column."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:244
+msgid "RATING"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:248
+msgid "Description column title"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:249
+msgid "The text to be displayed on the DESCRIPTION column."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:251
+msgid "DESCRIPTION"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:255
+msgid "Statistics column title"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:256
+msgid "The text to be displayed on the Statistics column."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:258
+msgid "Statistics"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:262
+msgid "Link column title"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:263
+msgid "The text to be displayed on the LINK column."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:265
+msgid "LINK"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:269
+msgid "The text for the review link"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:270
+msgid "Change text for \"Read review\""
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:272
+msgid "Read review"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:276
+msgid "The default button text"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:277
+msgid "Set default text for button"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:283
+msgid "Price column title"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:284
+msgid "The text to be displayed on the PRICE column."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:286
+msgid "PRICE"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:290
+msgid "Read Review Color"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:291
+msgid "Change color for \"Read Review\"."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:297
+msgid "Show options in table"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:298
+msgid "Show the product options inside the table."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:301
+#: includes/addons/class-wppr-pro-comparison-table.php:324
+#: includes/addons/class-wppr-pro-listings.php:251
+msgid "Yes"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:302
+#: includes/addons/class-wppr-pro-comparison-table.php:314
+#: includes/addons/class-wppr-pro-comparison-table.php:325
+#: includes/addons/class-wppr-pro-listings.php:250
+msgid "No"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:308
+msgid "Show descriptions in table"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:309
+msgid ""
+"Show the product descriptions inside the table. <br/>Auto  - we will check "
+"if your theme content width is able to show table description.<br/>Force - "
+"we will ignore your theme content width and show the description. "
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:312
+msgid "Auto"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:313
+msgid "Force"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:320
+msgid "Show price in table"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-comparison-table.php:321
+msgid "Show the product price inside the table."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-custom-icon.php:28
+msgid "Pro Custom Icon"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-custom-icon.php:86
+msgid "Change Default Rating Icon"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-custom-icon.php:87
+msgid "Choose which icon would you like to use for the rating bar."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:28
+#: includes/addons/class-wppr-pro-listings.php:227
+msgid "Pro Listings"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:246
+msgid "Show review on related posts."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:247
+msgid "Automatically display related reviews at the end of the post."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:257
+msgid "Review link text"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:258
+msgid "What will be displayed on the review link."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:260
+msgid "Read Review"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:264
+msgid "Button text"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:265
+msgid "What will be displayed on the call to action button."
+msgstr ""
+
+#: includes/addons/class-wppr-pro-listings.php:267
+msgid "Buy Now"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-related-reviews.php:28
+msgid "Pro Related reviews"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-review-preload.php:28
+msgid "Pro Review Preload"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-review-preload.php:101
+msgid "Options"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-review-preload.php:114
+msgid "Pros"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-review-preload.php:127
+msgid "Cons"
+msgstr ""
+
+#: includes/addons/class-wppr-pro-single-review-shortcode.php:37
+msgid "Single Review Shortcode"
+msgstr ""
+
+#: includes/addons/layouts/amazon/editor-fields.php:14
+msgid "Amazon Product ID"
+msgstr ""
+
+#: includes/addons/layouts/amazon/editor-fields.php:22
+msgid "Import"
+msgstr ""
+
+#: includes/addons/layouts/amazon/editor-fields.php:23
+msgid "You can find the ID from the URL. Sample"
+msgstr ""
+
+#: includes/addons/layouts/table.php:132 includes/addons/layouts/table.php:149
+msgid "Buy Now!"
+msgstr ""
+
+#: includes/addons/layouts/table.php:139
+msgid "Affiliate URL"
+msgstr ""
+
+#: includes/addons/widgets/class-wppr-pro-related-reviews-widget.php:124
+msgid "Widget Title"
+msgstr ""
+
+#: includes/addons/widgets/class-wppr-pro-related-reviews-widget.php:128
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/addons/widgets/class-wppr-pro-related-reviews-widget.php:133
+msgid "Display thumbnail?"
+msgstr ""
+
+#: includes/addons/widgets/class-wppr-pro-related-reviews-widget.php:286
+#. translators: %s is replaced a url
+msgid ""
+"Great, now go under <a href=\"%s\">Appearance &#8250 Widgets</a> and place "
+"your widget in your sidebar."
+msgstr ""
+
+#: includes/class-wppr-pro.php:249
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-wppr-pro.php:250
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/class-wppr-pro.php:252
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/class-wppr-pro.php:254
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-wppr-pro.php:255
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/class-wppr-pro.php:292
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wppr-pro.php:297
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wppr-pro.php:302
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-wppr-pro.php:307
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-wppr-pro.php:308
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-wppr-pro.php:309
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/class-wppr-pro.php:311
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/class-wppr-pro.php:313
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for WP Product "
+"Review. Please update the plugin."
+msgstr ""
+
+#: includes/class-wppr-pro.php:315
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-wppr-pro.php:316
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-wppr-pro.php:317
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/class-wppr-pro.php:318
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:920
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2075
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2489
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2707
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3591
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3596
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Product Review"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://themeisle.com/plugins/wp-product-review/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This bundle contains all the premium add-on like: custom icons, preloader, "
+"product in post shortcode, comparision chart."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:1214
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/tgmpa/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

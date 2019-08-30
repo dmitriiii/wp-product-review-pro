@@ -1,0 +1,14 @@
+.cwp_bar_icon_field i {
+	font-family: dashicons;
+	cursor: pointer;
+	border: 1px solid #cccccc;
+    border-radius: 25%;
+    padding: 1px;
+    margin: 2px;
+}
+
+.cwp_bar_icon_field i:hover,
+.cwp_bar_icon_field i.selected {
+	cursor: pointer;
+	background-color: #f17052;
+}
